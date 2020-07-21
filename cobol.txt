@@ -1,0 +1,5 @@
+Cobol Notes    ( 07/21/2020 ) - VJ
+
+
+1) Introduction to Cobol
+2) Different Divsions in Cobol
