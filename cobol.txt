@@ -5,3 +5,4 @@ Cobol Notes    ( 07/21/2020 ) - VJ
 2) Why Cobol is being Used Today ?
 3) Structure of Cobol 
 4) COBOL Reserved Words
+5) COBOL DIVISIONS
